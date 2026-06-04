@@ -1,6 +1,6 @@
 {
-  "name": "Advisor Portal - ผดุงเสนา",
-  "short_name": "Advisor App",
+  "name": "Advisor App - ผดุงเสนา",
+  "short_name": "ระบบอาจารย์ที่ปรึกษา",
   "description": "ระบบอาจารย์ที่ปรึกษา วิทยาลัยเทคโนโลยีผดุงเสนาบริหารธุรกิจ",
   "start_url": "index.html",
   "display": "standalone",
